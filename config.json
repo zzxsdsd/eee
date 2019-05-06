@@ -29,10 +29,10 @@
             "tls-fingerprint": null
         }
     ],
-    "print-time": 10,
+    "print-time": 20,
     "retries": 50,
     "retry-pause": 5,
     "safe": false,
     "syslog": false,
-    "threads": null
+    "threads": 7
 }
