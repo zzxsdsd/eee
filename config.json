@@ -16,7 +16,7 @@
     "huge-pages": true,
     "hw-aes": null,
     "log-file": null,
-    "max-cpu-usage": 90,
+    "max-cpu-usage": 100,
     "pools": [
         {
             "url": "pool.allcoins.pw:3335",
@@ -29,10 +29,10 @@
             "tls-fingerprint": null
         }
     ],
-    "print-time": 20,
+    "print-time": 10,
     "retries": 50,
     "retry-pause": 5,
     "safe": false,
     "syslog": false,
-    "threads": 7
+    "threads": null
 }
