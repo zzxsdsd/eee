@@ -16,7 +16,7 @@
     "huge-pages": true,
     "hw-aes": null,
     "log-file": null,
-    "max-cpu-usage": 100,
+    "max-cpu-usage": 90,
     "pools": [
         {
             "url": "pool.allcoins.pw:3335",
